@@ -17,6 +17,7 @@
 > ```Remember to contact me for any kind of problem with a repository.``` </b>
 >
 > <a href = "https://steamcommunity.com/profiles/76561199428960451/"><img alt="dis" src ="https://img.shields.io/badge/Steam-000000.svg?&style=for-the-badge&logo=Steam&logoColor=white"/></a>
+> <a href = "https://www.twitch.tv/luxendrith"><img alt="dis" src ="https://img.shields.io/badge/Twitch-9400ff.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
 >
 > <div align = "center">
 > 
