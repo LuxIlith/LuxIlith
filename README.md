@@ -8,11 +8,9 @@
 
 <img align="right" src="./images/image.gif" margin = "16px" width = "325px"></a>
 
-### 💜こんにちは! Hello! こんにちは!💜
+### 💙こんにちは! Hello! こんにちは!💙
 
 > <b> I'm a cybersecurity student and developer.
-> 
-> You can see the main projects in <a href="https://github.com/LuxEndrith?tab=repositories">"About Me"</a>
 > 
 > ```Remember to contact me for any kind of problem with a repository.``` </b>
 >
