@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" src="./images/image.gif" margin = "16px" width = "325px"></a>
+<img align="right" src="lux.gif" margin = "16px" width = "325px"></a>
 
 ### 💙こんにちは! Hello! こんにちは!💙
 
