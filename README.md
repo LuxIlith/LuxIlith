@@ -30,13 +30,18 @@
   <img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt = "vuejs" />
   
 <h2> / github stats /</h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=luxendrithvt &column=7&no-frame=true"/>
+</a>
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=luxendrith&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=luxendrith&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=luxendrith&theme=material-palenight&hide_border=true&background=FFFFFF00">
-</p>
-
+<div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=luxendrithvt &count_private=true&include_all_commits=true&show_icons=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxendrithvt &layout=compact&hide=html,glsl,hlsl&langs_count=9" />
+    </a>
+</div>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=luxendrith&theme=tokyonight"/>
 </p>
