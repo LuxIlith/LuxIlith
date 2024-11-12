@@ -37,9 +37,9 @@
 
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=luxilith&count_private=true&include_all_commits=true&show_icons=true" />
+        <img height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=luxilith&count_private=true&include_all_commits=true&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxilith&layout=compact&hide=html,glsl,hlsl&langs_count=9" />
+        <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxilith&layout=compact&hide=html,glsl,hlsl&langs_count=9&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
     </a>
 </div>
